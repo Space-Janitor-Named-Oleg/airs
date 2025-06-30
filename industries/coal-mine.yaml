@@ -1,7 +1,9 @@
 available: true
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- MiEq
+cargoProduction:
+- CaOr
 colour: 1
 fundCostMultiplier: 100
 id: 2
@@ -28,7 +30,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      id: 0
+      filename: industries/coal-mine/2.png
       left: -31
       top: 0
 type: primary

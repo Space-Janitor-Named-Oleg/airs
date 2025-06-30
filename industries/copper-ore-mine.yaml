@@ -2,7 +2,8 @@ available: true
 callbacks: ''
 cargoAcceptance:
 - MiEq
-cargoProduction: []
+cargoProduction:
+- CpOr
 colour: 1
 fundCostMultiplier: 100
 id: 1
