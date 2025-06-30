@@ -1,0 +1,18 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- Bxit
+cargoProduction:
+- Alum
+colour: 1
+fundCostMultiplier: 100
+id: 10
+layout:
+- - - -1
+name: Aluminum Mill
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

@@ -1,0 +1,29 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- CsGd
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 9
+layout:
+- - - 0
+  - - 0
+name: Goods Store
+placement: in-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/goods-store/1.png
+      left: -31
+      top: 0
+type: tertiary
