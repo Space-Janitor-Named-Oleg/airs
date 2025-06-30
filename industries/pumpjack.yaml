@@ -1,61 +1,44 @@
 available: false
 callbacks: ''
-cargoAcceptance:
-- MiEq
+cargoAcceptance: []
 cargoProduction:
-- Iron
+- COil
 colour: 1
 fundCostMultiplier: 100
-id: 0
+id: 8
 layout:
 - - - 1
-    - 1
-    - 1
-    - 1
-    - 1
-  - - 1
-    - 1
-    - 1
-    - 1
-    - 1
-  - - 1
-    - 1
-    - 1
-    - 1
-    - 1
-  - - 1
-    - 1
-    - 1
-    - 1
-    - 1
-name: Iron Ore Mine
+  - - 0
+name: Pumpjack
 placement: anywhere
-probabilityInGame: 15
-probabilityMapGen: 15
-prospectChance: 75
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 60
 tiles:
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      id: 3924
+      filename: industries/pumpjack/2.png
+      left: -31
+      top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/iron-ore-mine/1.png
+      filename: industries/pumpjack/1.png
       left: -31
       top: 0
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/iron-ore-mine/1.png
+      filename: industries/pumpjack/1.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/iron-ore-mine/2.png
+      filename: industries/pumpjack/2.png
       left: -31
       top: 0
 type: primary

@@ -1,18 +1,20 @@
 available: false
 callbacks: ''
 cargoAcceptance:
-- BlSt
-- Expl
+- COil
 cargoProduction:
-- MiEq
+- Chem
+- Fuel
+- HOil
 colour: 1
 fundCostMultiplier: 100
-id: 5
+id: 7
 layout:
 - - - 0
     - 0
     - 0
     - 0
+  - - 0
     - 0
     - 0
     - 0
@@ -20,6 +22,7 @@ layout:
     - 0
     - 0
     - 0
+  - - 0
     - 0
     - 0
     - 0
@@ -27,20 +30,21 @@ layout:
     - 0
     - 0
     - 0
+  - - 0
     - 0
     - 0
     - 0
-name: Mining Equipment Factory
+name: Oil Refinery
 placement: anywhere
-probabilityInGame: 6
-probabilityMapGen: 6
+probabilityInGame: 10
+probabilityMapGen: 10
 prospectChance: 0
 tiles:
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/mining-equipment-factory/1.png
+      filename: industries/oil-refinery/1.png
       left: -31
       top: 0
   - alwaysDraw: false

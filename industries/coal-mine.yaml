@@ -6,11 +6,29 @@ colour: 1
 fundCostMultiplier: 100
 id: 2
 layout:
-- - - -1
+- - - 0
+    - 0
+    - 0
+  - - 0
+    - 0
+    - 0
 name: Coal Mine
 placement: anywhere
 probabilityInGame: 16
 probabilityMapGen: 16
 prospectChance: 75
-tiles: []
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/coal-mine/1.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      id: 0
+      left: -31
+      top: 0
 type: primary

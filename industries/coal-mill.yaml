@@ -9,11 +9,43 @@ colour: 1
 fundCostMultiplier: 100
 id: 3
 layout:
-- - - -1
+- - - 0
+    - 0
+    - 0
+    - 0
+  - - 0
+    - 0
+    - 0
+    - 0
+  - - 0
+    - 0
+    - 0
+    - 0
+  - - 0
+    - 0
+    - 0
+    - 0
+  - - 0
+    - 0
+    - 0
+    - 0
 name: Coal Mill
 placement: anywhere
 probabilityInGame: 12
 probabilityMapGen: 12
 prospectChance: 0
-tiles: []
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/coal-mill/1.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/coal-mill/2.png
+      left: -31
+      top: 0
 type: secondary
