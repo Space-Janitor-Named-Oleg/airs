@@ -1,4 +1,4 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance:
 - COil
@@ -50,7 +50,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      id: 0
+      filename: industries/oil-refinery/2.png
       left: -31
       top: 0
 type: secondary

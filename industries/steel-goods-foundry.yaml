@@ -1,4 +1,4 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance:
 - BlSt
@@ -37,7 +37,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      id: 0
+      filename: industries/steel-goods-foundry/2.png
       left: -31
       top: 0
 type: secondary

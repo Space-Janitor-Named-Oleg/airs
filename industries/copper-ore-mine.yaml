@@ -1,4 +1,4 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance:
 - MiEq
@@ -32,7 +32,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      id: 0
+      filename: industries/copper-ore-mine/2.png
       left: -31
       top: 0
 type: primary
