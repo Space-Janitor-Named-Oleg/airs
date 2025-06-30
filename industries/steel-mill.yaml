@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- Chem
+- Coal
+- Iron
+cargoProduction:
+- BlSt
+colour: 1
+fundCostMultiplier: 100
+id: 4
+layout:
+- - - -1
+name: Steel Mill
+placement: anywhere
+probabilityInGame: 10
+probabilityMapGen: 10
+prospectChance: 0
+tiles: []
+type: secondary

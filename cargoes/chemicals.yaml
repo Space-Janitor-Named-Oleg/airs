@@ -1,0 +1,17 @@
+abbreviation: Ch
+available: false
+classes: 320
+colour: 1
+id: 9
+label: Chem
+longName: chemicals
+name: Chemicals
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 9047
+sprite:
+  filename: cargoes/chemicals.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 14

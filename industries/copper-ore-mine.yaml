@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- MiEq
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 1
+layout:
+- - - -1
+name: Copper Ore Mine
+placement: anywhere
+probabilityInGame: 14
+probabilityMapGen: 14
+prospectChance: 75
+tiles: []
+type: primary

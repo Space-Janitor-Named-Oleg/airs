@@ -1,0 +1,17 @@
+abbreviation: CG
+available: false
+classes: 544
+colour: 64
+id: 15
+label: CsGd
+longName: consumer goods
+name: Consumer Goods
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/consumer-goods.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 8

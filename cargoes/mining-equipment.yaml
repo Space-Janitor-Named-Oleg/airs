@@ -1,0 +1,17 @@
+abbreviation: ME
+available: false
+classes: 544
+colour: 207
+id: 2
+label: MiEq
+longName: mining equipment
+name: Mining Equipment
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 20560
+sprite:
+  filename: cargoes/mining-equipment.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 18

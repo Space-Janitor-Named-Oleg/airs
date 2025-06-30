@@ -1,0 +1,17 @@
+abbreviation: HO
+available: false
+classes: 64
+colour: 1
+id: 8
+label: HOil
+longName: heavy oil
+name: Heavy Oil
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 6168
+sprite:
+  filename: cargoes/heavy-oil.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 23

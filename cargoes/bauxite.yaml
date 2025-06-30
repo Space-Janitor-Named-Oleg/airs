@@ -1,0 +1,17 @@
+abbreviation: Bx
+available: false
+classes: 16
+colour: 1
+id: 6
+label: Bxit
+longName: bauxite
+name: Bauxite
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/bauxite.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

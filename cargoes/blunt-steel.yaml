@@ -1,0 +1,17 @@
+abbreviation: BS
+available: false
+classes: 32
+colour: 11
+id: 5
+label: BlSt
+longName: blunt steel
+name: Blunt Steel
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 7402
+sprite:
+  filename: cargoes/blunt-steel.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

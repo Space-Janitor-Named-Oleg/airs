@@ -1,0 +1,17 @@
+abbreviation: FS
+available: false
+classes: 32
+colour: 14
+id: 14
+label: FeSt
+longName: ferroed steel
+name: Ferroed Steel
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 10280
+sprite:
+  filename: cargoes/ferroed-steel.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

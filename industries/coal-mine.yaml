@@ -1,0 +1,16 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 2
+layout:
+- - - -1
+name: Coal Mine
+placement: anywhere
+probabilityInGame: 16
+probabilityMapGen: 16
+prospectChance: 75
+tiles: []
+type: primary

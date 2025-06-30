@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- BlSt
+cargoProduction:
+- CsGd
+- MiEq
+colour: 1
+fundCostMultiplier: 100
+id: 6
+layout:
+- - - -1
+name: Steel Goods Foundry
+placement: near-town
+probabilityInGame: 7
+probabilityMapGen: 7
+prospectChance: 0
+tiles: []
+type: secondary

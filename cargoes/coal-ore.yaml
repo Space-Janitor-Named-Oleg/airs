@@ -1,0 +1,17 @@
+abbreviation: CO
+available: false
+classes: 16
+colour: 7
+id: 3
+label: CaOr
+longName: coal ore
+name: Coal Ore
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 3290
+sprite:
+  filename: cargoes/coal-ore.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

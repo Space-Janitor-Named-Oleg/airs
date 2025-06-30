@@ -1,0 +1,17 @@
+abbreviation: Ca
+available: false
+classes: 2064
+colour: 1
+id: 4
+label: Coal
+longName: coal
+name: Coal
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4934
+sprite:
+  filename: cargoes/coal.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

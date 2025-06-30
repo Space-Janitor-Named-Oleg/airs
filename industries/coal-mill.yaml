@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- CaOr
+cargoProduction:
+- Coal
+- Grvl
+colour: 1
+fundCostMultiplier: 100
+id: 3
+layout:
+- - - -1
+name: Coal Mill
+placement: anywhere
+probabilityInGame: 12
+probabilityMapGen: 12
+prospectChance: 0
+tiles: []
+type: secondary

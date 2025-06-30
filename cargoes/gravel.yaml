@@ -1,0 +1,17 @@
+abbreviation: Gv
+available: false
+classes: 16
+colour: 1
+id: 13
+label: Grvl
+longName: gravel
+name: Gravel
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 2878
+sprite:
+  filename: cargoes/gravel.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

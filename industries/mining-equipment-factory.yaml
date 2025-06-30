@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- BlSt
+- Expl
+cargoProduction:
+- MiEq
+colour: 1
+fundCostMultiplier: 100
+id: 5
+layout:
+- - - -1
+name: Mining Equipment Factory
+placement: anywhere
+probabilityInGame: 6
+probabilityMapGen: 6
+prospectChance: 0
+tiles: []
+type: secondary

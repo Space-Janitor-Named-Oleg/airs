@@ -1,0 +1,17 @@
+abbreviation: Sg
+available: false
+classes: 16
+colour: 53
+id: 11
+label: Slag
+longName: slag
+name: Slag
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 3290
+sprite:
+  filename: cargoes/slag.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

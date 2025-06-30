@@ -1,0 +1,17 @@
+abbreviation: Ep
+available: false
+classes: 800
+colour: 1
+id: 12
+label: Expl
+longName: explosives
+name: Explosives
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 16448
+sprite:
+  filename: cargoes/explosives.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 12

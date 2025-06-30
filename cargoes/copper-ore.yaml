@@ -1,0 +1,17 @@
+abbreviation: PO
+available: false
+classes: 16
+colour: 236
+id: 1
+label: CpOr
+longName: copper ore
+name: Copper Ore
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/copper-ore.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
