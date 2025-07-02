@@ -1,0 +1,17 @@
+abbreviation: AF
+available: false
+classes: 64
+colour: 223
+id: 17
+label: AuFl
+longName: automotive fluids
+name: Automotive Fluids
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/automotive-fluids.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 10
