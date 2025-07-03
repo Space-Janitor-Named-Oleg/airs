@@ -1,0 +1,47 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- BlSt
+- Chem
+- CpOr
+cargoProduction:
+- FeSt
+- Slag
+colour: 1
+fundCostMultiplier: 100
+id: 12
+layout:
+- - - 0
+    - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+    - -1
+name: Ferroing Mill
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 5
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/ferroing-mill/1.png
+      left: -31
+      top: 0
+type: secondary
