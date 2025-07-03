@@ -1,8 +1,8 @@
 available: false
 callbacks: ''
 cargoAcceptance:
-- Bxit
 - Chem
+- Bxit
 cargoProduction:
 - Alum
 colour: 1
